@@ -1,9 +1,8 @@
-# Colly
+# Colly (C# version)
 Colly is a simple to use and optimized library for detecting and handling AABB collision. 
-It doesnt have any dependencies and it doesnt need to be precompiled into 
-a .dll/.lib (or .a and similar extensions). You just need
-to drag and drop the header and the source file into your project and start
-using it. You can easily modify this library and add new and custom CollisionTypes.
+This fork is a C# port of the tilepart of colly, which I didn't use in the end, so I thought I would put it here so it wasn't a complete waste
+I know it is lazy, but I don't want to edit this README to make sense with c#, it shouldn't be too hard to work out, sorry :/
+
 
 **cl\::World** is for storing non-tile based objects. It uses
 GridTree, which means that the collision is checked only with
