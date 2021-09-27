@@ -11,7 +11,7 @@ This fork is a Unity C# port of the tileworld part of colly.
 ## How to use
 Colly works the same way as the main fork, just with c# syntax, it shouldn't be that hard to work out (hopefully)
 
-A couple of things in haven't used have been left out, but they should be simple to add back in
+A couple of things i haven't used have been left out, but they should be simple to add back in
 
 ## LICENSE
 Colly is licensed under MIT license. See [LICENSE](./LICENSE) for more details.
